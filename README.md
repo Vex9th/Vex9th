@@ -18,9 +18,8 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vex9th&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vex9th&layout=compact&theme=synthwave&hide_border=true&langs_count=8&card_width=450" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vex9th&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vex9th&theme=radical" />
 
 <img src="https://streak-stats.demolab.com?user=Vex9th&theme=synthwave&hide_border=true" />
 
