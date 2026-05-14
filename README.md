@@ -1,17 +1,29 @@
-```
- __     __         ___  _   _
- \ \   / /_ __  _/ _ \| |_| |__
-  \ \ / / _ \\ \/ / (_) | __| '_ \
-   \ V /  __/>  < \__, | |_| | | |
-    \_/ \___/_/\_\  /_/ \__|_| |_|
-```
+<div align="center">
 
-`// signal lost in the tropics.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Vex9th&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-```
-> whoami
-fullstack · ts · py · go
+### Fullstack · Shipping since 2013 · SG 🌴
 
-> uptime
-shipping since 2013
-```
+`// Building things that ship.`
+
+---
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vex9th&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vex9th&layout=compact&theme=synthwave&hide_border=true&langs_count=8&card_width=450" />
+
+<img src="https://streak-stats.demolab.com?user=Vex9th&theme=synthwave&hide_border=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=100&section=footer" />
+
+</div>
