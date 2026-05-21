@@ -1,34 +1,12 @@
-<div align="center">
+### Vex9th
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&multiline=true&width=620&height=110&lines=Hi%2C+I'm+Vex9th;Fullstack+%C2%B7+Shipping+since+2013" alt="header" />
+Fullstack engineer, shipping since 2013. Based in Singapore.  
+Mostly working with TypeScript, Go and Python — usually on the boring parts:
+APIs, data pipelines, dev tooling.
 
-`// Building things that ship.`
+![TypeScript](https://img.shields.io/badge/TypeScript-_-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-_-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-_-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-_-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-📍 Singapore 🌴
-
----
-
-### 🛠 Stack
-
-<img src="https://skillicons.dev/icons?i=ts,py,go,nextjs,fastapi,tailwind,postgres,redis,docker&theme=dark" alt="stack" />
-
----
-
-### 📊 Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Vex9th&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vex9th&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=Vex9th&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vex9th&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
-
-</div>
+— [vex9th.dev](https://vex9th.dev)
