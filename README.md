@@ -1,28 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Vex9th&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-### Fullstack · Shipping since 2013 · SG 🌴
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&multiline=true&width=620&height=110&lines=Hi%2C+I'm+Vex9th;Fullstack+%C2%B7+Shipping+since+2013" alt="header" />
 
 `// Building things that ship.`
 
----
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+📍 Singapore 🌴
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vex9th&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vex9th&theme=radical" />
+### 🛠 Stack
 
-<img src="https://streak-stats.demolab.com?user=Vex9th&theme=synthwave&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=ts,py,go,nextjs,fastapi,tailwind,postgres,redis,docker&theme=dark" alt="stack" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=100&section=footer" />
+---
+
+### 📊 Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Vex9th&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vex9th&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=Vex9th&theme=tokyonight&hide_border=true" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vex9th&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
 
 </div>
