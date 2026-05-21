@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="vex9th — fullstack engineer">
+  <defs>
+    <style>
+      .bg     { fill: #0a0a0a; }
+      .fg     { fill: #fafafa; }
+      .muted  { fill: #8a8a8a; }
+      .dim    { fill: #4a4a4a; }
+      .accent { fill: #c9a961; }
+      .hair   { stroke: #1a1a1a; stroke-width: 0.5; }
+      .ring   { stroke: #c9a961; fill: none; stroke-width: 0.8; opacity: 0.75; }
+      .dot    { fill: #2a2a2a; }
+
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", "Segoe UI", sans-serif; font-weight: 200; letter-spacing: -1px; }
+      .mono  { font-family: ui-monospace, "SF Mono", "JetBrains Mono", "Cascadia Code", Menlo, monospace; }
+    </style>
+  </defs>
+
+  <!-- canvas -->
+  <rect class="bg" width="1280" height="320"/>
+
+  <!-- top + bottom hairlines -->
+  <line class="hair" x1="0" y1="80"  x2="1280" y2="80"/>
+  <line class="hair" x1="0" y1="240" x2="1280" y2="240"/>
+
+  <!-- sparse dot grid (very subtle, right half) -->
+  <g class="dot">
+    <circle cx="760" cy="120" r="0.8"/>
+    <circle cx="800" cy="120" r="0.8"/>
+    <circle cx="840" cy="120" r="0.8"/>
+    <circle cx="880" cy="120" r="0.8"/>
+    <circle cx="760" cy="160" r="0.8"/>
+    <circle cx="800" cy="160" r="0.8"/>
+    <circle cx="840" cy="160" r="0.8"/>
+    <circle cx="880" cy="160" r="0.8"/>
+    <circle cx="760" cy="200" r="0.8"/>
+    <circle cx="800" cy="200" r="0.8"/>
+    <circle cx="840" cy="200" r="0.8"/>
+    <circle cx="880" cy="200" r="0.8"/>
+  </g>
+
+  <!-- top stamp -->
+  <text class="mono dim" x="1220" y="56" font-size="11" letter-spacing="4" text-anchor="end">VEX9TH  ·  2026</text>
+
+  <!-- logo mark -->
+  <g transform="translate(120,170)">
+    <circle class="ring" r="26"/>
+    <circle class="accent" r="3"/>
+  </g>
+
+  <!-- title -->
+  <text class="title fg" x="190" y="188" font-size="92">vex9th</text>
+
+  <!-- accent rule -->
+  <rect class="accent" x="190" y="210" width="40" height="1.5"/>
+
+  <!-- subtitle -->
+  <text class="mono muted" x="190" y="232" font-size="13" letter-spacing="3">FULLSTACK  ·  SHIPPING SINCE 2013  ·  SG</text>
+
+  <!-- right tagline -->
+  <text class="mono muted" x="1220" y="180" font-size="12" letter-spacing="1" text-anchor="end">// building things</text>
+  <text class="mono muted" x="1220" y="198" font-size="12" letter-spacing="1" text-anchor="end">that ship.</text>
+
+  <!-- bottom stamp -->
+  <text class="mono dim" x="60"   y="284" font-size="10" letter-spacing="3">SG  →  TYO</text>
+  <text class="mono dim" x="1220" y="284" font-size="10" letter-spacing="3" text-anchor="end">SINCE  ·  MMXIII</text>
+</svg>
